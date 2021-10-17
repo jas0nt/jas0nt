@@ -1,4 +1,4 @@
-### Jas0nᵀ 👨‍💻 (Emacser)
+### Jas0nᵀ 👨‍💻
 
 ```lisp
 (let ((name "Jas0nᵀ")
